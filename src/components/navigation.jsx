@@ -16,7 +16,7 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
           </button>
           <a className='navbar-brand page-scroll' href='#page-top' style={{color:"floralwhite"}}>
-            React Landing Page
+            Live Commerce India
           </a>{' '}
         </div>
 
